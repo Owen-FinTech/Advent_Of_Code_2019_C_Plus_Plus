@@ -12,12 +12,7 @@ using std::vector;
 using std::stoi;
 
 int main() {
-   string inputString = MULTI_LINE_STRING(
-<x=-14, y=-4, z=-11>
-<x=-9, y=6, z=-7>
-<x=4, y=1, z=4>
-<x=2, y=-14, z=-9>
-    ); // Insert the puzzle input here
+   string inputString = MULTI_LINE_STRING(""); // Insert the puzzle input here
 
     int moon = 0;
     int xyz = 0;

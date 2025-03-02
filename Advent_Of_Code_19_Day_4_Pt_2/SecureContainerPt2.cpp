@@ -12,9 +12,7 @@ using std::stoi;
 using std::vector;
 
 int main() {
-   string inputString = MULTI_LINE_STRING(
-236491-713787
-   ); // Insert the puzzle input here
+   string inputString = MULTI_LINE_STRING(""); // Insert the puzzle input here
       
    string currIntString = "";
    int lowRange;
